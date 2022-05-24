@@ -1,3 +1,3 @@
 # CourseraMLStanford
 
-My soluion to machine learning course on Coursera.
+My solution to machine learning course on Coursera.
